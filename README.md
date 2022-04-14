@@ -40,4 +40,4 @@ Front-end developer who is open to new suggestions and opportunities. Ready to d
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vspominay&langs_count=6&theme=discord_old_blurple)](https://github.com/vspominay/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vspominay&langs_count=6&theme=discord_old_blurple)](https://github.com/vspominay/)
