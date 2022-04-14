@@ -20,7 +20,7 @@ Front-end developer who is open to new suggestions and opportunities. Ready to d
 
 <br/>
 
-<img src="https://media.giphy.com/media/ferKf2EFV8UQ89ikF8/giphy.gif" width="30px">If you have any suggestions - write to me:
+<img src="https://media.giphy.com/media/ferKf2EFV8UQ89ikF8/giphy.gif" width="30px">If you've some suggestions - write to me:
 -------------------
 
 
