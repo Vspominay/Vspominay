@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dmitry</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Dmitry</h1>
 <h3 align="center">Front-end developer</h3>
 
 📄Briefly about me ([CV](https://drive.google.com/file/d/1_Ir7Xe2B1CD7CVBodl-VcGgNc0jrk1MM/view?usp=sharing)):
@@ -23,7 +23,7 @@ Front-end developer who is open to new suggestions and opportunities. Ready to d
 
 <br/>
 
-<img src="https://media.giphy.com/media/ferKf2EFV8UQ89ikF8/giphy.gif" width="30px">If you've some suggestions - write to me:
+<img src="https://media.giphy.com/media/ferKf2EFV8UQ89ikF8/giphy.gif" height="30px" width="30px">If you've some suggestions - write to me:
 -------------------
 
 
